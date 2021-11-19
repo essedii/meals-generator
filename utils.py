@@ -27,17 +27,3 @@ def print_nutritional_values():
 
 
 total_nutrition_values = PlanValues(0, 0, 0, 0)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
